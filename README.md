@@ -59,7 +59,7 @@ Allure-Report erzeugen:
 mvn allure:report
 ```
 
-Der HTML-Report liegt anschließend unter:
+Der HTML-Report liegt anschliessend unter:
 
 ```text
 target/allure-report/index.html
